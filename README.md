@@ -1,4 +1,4 @@
-# Taller5
+# Taller5 - Joel Domínguez Ochoa
 ### Representación gráfica y diseño de la solución de problemas con pseudocódigo aplicando estructuras lógicas condicionales.
 
 * Desarrollar una solución en miniespecificación y diagrama de flujo para cada problema (usar las carpetas creadas para cada problema)
